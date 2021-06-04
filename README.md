@@ -31,6 +31,12 @@
 
 ## Different Utility Usecases
 
+### CloutPool Partnership
+
+#### Datastore for Mining
+
+#### Software Layer Compatibility
+
 ## The Future
 
 ## Conclusion
