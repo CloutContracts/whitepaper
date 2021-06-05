@@ -45,8 +45,10 @@ CloutContracts will be easy to integrate with various sidechain compatiblity.
 CloutContracts will also integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
 
 ### DeFi
+Due to the many technological integrations that CloutContracts has, flexibility w/ various DeFi apps and exchanges should be possible.
 
 ## DAPP Compatibility
+A huge serious advantage that CloutContracts brings is the ability for many people to build DAPPs (decentralized applications) untop of CloutContracts.
 
 ## Faucets
 
