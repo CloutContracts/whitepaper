@@ -51,14 +51,19 @@ Due to the many technological integrations that CloutContracts has, flexibility 
 A huge serious advantage that CloutContracts brings is the ability for many people to build DAPPs (decentralized applications) untop of CloutContracts.
 
 ## Faucets
+Faucets are another great integration in the fact that creators can make custom faucets to distribute tokens or even run different variations of airdrops for beta-testing.
 
 ## Phase 1.0
+There are multiple phases for CloutContracts including a testnet phase and mainnet. The testnet will likely revolve around integrations centered around the Agoric SDK. This is phase 1.
 
 ### Agoric SDK Integration
+The Agoric SDK is for a new kind of blockchain system known as Agoric that lets you create high-level contracts centered around liquidity using JavaScript. Phase 1 as mentioned, integrates its SDK. This will be for what will be considered more of the beta or non-production phase.
 
 ## Phase 2.0
+Phase 2 is the introduction of a rollup phase untop of Ethereum. This is the mainnet and expansion phase.
 
 ### Ethereum Optimistic Rollups
+Optimistic rollups on Ethereum allow for low gas fees and expanded DAPP capabilities.
 
 ## Regarding Liquidity
 
