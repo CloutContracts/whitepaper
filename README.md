@@ -6,8 +6,9 @@
 1. [About](https://github.com/CloutContracts/whitepaper#about)
 2. [Premise](https://github.com/CloutContracts/whitepaper#premise)
 3. [Introduction](https://github.com/CloutContracts/whitepaper#introduction)
-4. [Main Chain](https://github.com/CloutContracts/whitepaper#main-chain)
-5. [Sidechains](https://github.com/CloutContracts/whitepaper#sidechains)
+    - Software License
+5. [Main Chain](https://github.com/CloutContracts/whitepaper#main-chain)
+6. [Sidechains](https://github.com/CloutContracts/whitepaper#sidechains)
     - [Pegs](https://github.com/CloutContracts/whitepaper#pegs)
     - [DeFi](https://github.com/CloutContracts/whitepaper#defi)
 7. [DAPP Compatibility](https://github.com/CloutContracts/whitepaper#dapp-compatibility)
@@ -36,6 +37,8 @@ CloutContracts goes well beyong traditional social media monetization strategies
 
 ## Introduction
 CloutContracts as both a smart contracts layer and tool for creators, will allow for people to expand their networks to new heights.
+
+### Software License
 
 ## Main Chain
 The main chain for CLoutContracts will likely integrate some sort of optimistic rollup, and be focused on variation of smart contracts programmed in JavaScript and/or Solidity.
