@@ -29,6 +29,8 @@
 ## About
 CloutContracts is a smart contracts layer untop of and complimentary to BitClout, as well as potentially other social media platforms in the future as well.
 
+**Keywords:**
+
 ## Premise
 CloutContracts goes well beyong traditional social media monetization strategies and implements huge core technological aspects.
 
