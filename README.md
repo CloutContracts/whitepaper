@@ -66,19 +66,29 @@ Phase 2 is the introduction of a rollup phase untop of Ethereum. This is the mai
 Optimistic rollups on Ethereum allow for low gas fees and expanded DAPP capabilities.
 
 ## Regarding Liquidity
+Given many of the technological integrations and various capabilities, liquidity shouldn't be much of an issue. Infact, this exapnds upon a new class or varation of utility tokens.
 
 ## Different Utility Usecases
+Most of the usecases mentioned are centered around the utilization of CloutContracts as a tool. Many people can launch their own high speed DAPPs and networks with ease, and these are part of the large usecases of CloutContracts as a whole.
 
 ### CloutPool Partnership
+CloutPool can help in multiple ways. For starters, the eventual software layer that CloutPool wants to build is centered around infrastructure as code and its own various microservices. CloutContracts can be integrated into many of those systems. CloutPool can also help in the fact that many people building DAPPs untop of CloutContracts may integrate mining capability.
 
 #### Datastore for Mining
+DAPPs on CloutContracts can run various algorithms provided it is build untop of its network. This can include various PoW (Proof of Work) functions for people who want to make their smart contracts mineable.
 
 #### Software Layer Compatibility
+As mentioned, CloutContracts wants to also be integrated on various infrastructure as a code services and the software layer CloutPool is trying to built. However, CloutContracts is still its own seperate network. This means that if an application launching CloutContracts as a microservice isn't built or integrated as a plugin to CloutPool's software layer, this has no effect on CloutContracts as a network.
 
 ## The Future
+In the future, there could be lots of possibilities and perhaps further phases.
 
 ## Conclusion
+CloutContracts has lots of potential as not just a network, but perhaps an establisher of various protocols.
 
 ### Summary
+As mentioned, CloutContracts is a smart contracts layer and network.
 
 ## See Also
+[1] \
+[2]
