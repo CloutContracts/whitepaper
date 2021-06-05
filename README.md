@@ -28,7 +28,7 @@
 15. [See Also](https://github.com/CloutContracts/whitepaper#see-also)
 
 ## About
-CloutContracts is a smart contracts layer untop of and complimentary to BitClout, as well as potentially other social media platforms in the future as well.
+[CloutContracts](https://cloutcontracts.github.io/) is a smart contracts layer on top of and complimentary to BitClout, as well as potentially other social media platforms in the future as well. As a smart contracts layer, many creators onboarded to CloutContracts can create high performace DAPPs w/ an emphasis on low gas fees, customization, speed and various social aspects as well. This will eventually allow creators to build large scale networks, tokenization usecases, and bring blockchain adaptability to their fanbases. Unlike traditional rollup networks or DAPP tools, the emphasis is on the creator, adaptability, and expanded functionalities such as modular tools or microservices. CloutContracts aims to have creators feel like they aren't needing to chose between expanded functionality from running their own blockchain or accessibility from running on top of a network. This creates a new class of blockchain developers, in which ease of access is aimed towards both the most basic level to running complex lightweight apps on Javascript or Solidity.
 
 **Keywords:** *Smart Contracts, Distributed Computing, Blockchain, Decentralization, Social Media, Social Networks, DAPPs, Javascript, Computer Science, Compututational Sciences, DeFi, Ethereum, Sidechains, Networks, Cryptocurrency, Software Engineering*
 
