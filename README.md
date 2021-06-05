@@ -6,7 +6,7 @@
 1. [About](https://github.com/CloutContracts/whitepaper#about)
 2. [Premise](https://github.com/CloutContracts/whitepaper#premise)
 3. [Introduction](https://github.com/CloutContracts/whitepaper#introduction)
-    - Software License
+    - [Software License](https://github.com/CloutContracts/whitepaper#software-license)
 5. [Main Chain](https://github.com/CloutContracts/whitepaper#main-chain)
 6. [Sidechains](https://github.com/CloutContracts/whitepaper#sidechains)
     - [Pegs](https://github.com/CloutContracts/whitepaper#pegs)
@@ -39,6 +39,15 @@ CloutContracts goes well beyong traditional social media monetization strategies
 CloutContracts as both a smart contracts layer and tool for creators, will allow for people to expand their networks to new heights.
 
 ### Software License
+**License(s):** MIT | zlib | OPNL-2 | CC BY 4.0
+
+© 2021 CloutContracts
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. End license text.
 
 ## Main Chain
 The main chain for CLoutContracts will likely integrate some sort of optimistic rollup, and be focused on variation of smart contracts programmed in JavaScript and/or Solidity.
