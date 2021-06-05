@@ -28,7 +28,7 @@
 15. [See Also](https://github.com/CloutContracts/whitepaper#see-also)
 
 ## About
-[CloutContracts](https://cloutcontracts.github.io/) is a smart contracts layer on top of and complimentary to BitClout, as well as potentially other social media platforms in the future as well. As a smart contracts layer, many creators onboarded to CloutContracts can create high performace DAPPs w/ an emphasis on low gas fees, customization, speed and various social aspects as well. This will eventually allow creators to build large scale networks, tokenization usecases, and bring blockchain adaptability to their fanbases. Unlike traditional rollup networks or DAPP tools, the emphasis is on the creator, adaptability, and expanded functionalities such as modular tools or microservices. CloutContracts aims to have creators feel like they aren't needing to chose between expanded functionality from running their own blockchain or accessibility from running on top of a network. This creates a new class of blockchain developers, in which ease of access is aimed towards both the most basic level to running complex lightweight apps on Javascript or Solidity.
+[CloutContracts](https://cloutcontracts.github.io/) is a smart contracts layer on top of and complimentary to BitClout, as well as potentially other social media platforms in the future as well. As a smart contracts layer, many creators onboarded to CloutContracts can create high performace DAPPs w/ an emphasis on low gas fees, customization, speed and various social aspects as well. This will eventually allow creators to build large scale networks, tokenization usecases, and bring blockchain adaptability to their fanbases. Unlike traditional rollup networks or DAPP tools, the emphasis is on the creator, adaptability, and expanded functionalities such as modular tools or microservices. CloutContracts aims to have creators feel like they aren't needing to choose between expanded functionality from running their own blockchain or accessibility from running on top of a network. This creates a new class of blockchain developers, in which ease of access is aimed towards both the most basic level to running complex lightweight apps on JavaScript or Solidity.
 
 **Keywords:** *Smart Contracts, Distributed Computing, Blockchain, Decentralization, Social Media, Social Networks, DAPPs, Javascript, Computer Science, Compututational Sciences, DeFi, Ethereum, Sidechains, Networks, Cryptocurrency, Software Engineering*
 
@@ -62,7 +62,7 @@ CloutContracts will also integrate pegs such as a tied BEP-20 asset and potentia
 Due to the many technological integrations that CloutContracts has, flexibility w/ various DeFi apps and exchanges should be possible.
 
 ## DAPP Compatibility
-A huge serious advantage that CloutContracts brings is the ability for many people to build DAPPs (decentralized applications) untop of CloutContracts.
+A huge serious advantage that CloutContracts brings is the ability for many people to build DAPPs (decentralized applications) on top of CloutContracts.
 
 ## Faucets
 Faucets are another great integration in the fact that creators can make custom faucets to distribute tokens or even run different variations of airdrops for beta-testing.
@@ -74,7 +74,7 @@ There are multiple phases for CloutContracts including a testnet phase and mainn
 The Agoric SDK is for a new kind of blockchain system known as Agoric that lets you create high-level contracts centered around liquidity using JavaScript. Phase 1 as mentioned, integrates its SDK. This will be for what will be considered more of the beta or non-production phase.
 
 ## Phase 2.0
-Phase 2 is the introduction of a rollup phase untop of Ethereum. This is the mainnet and expansion phase.
+Phase 2 is the introduction of a rollup phase on top of Ethereum. This is the mainnet and expansion phase.
 
 ### Ethereum Optimistic Rollups
 Optimistic rollups on Ethereum allow for low gas fees and expanded DAPP capabilities.
@@ -86,10 +86,10 @@ Given many of the technological integrations and various capabilities, liquidity
 Most of the usecases mentioned are centered around the utilization of CloutContracts as a tool. Many people can launch their own high speed DAPPs and networks with ease, and these are part of the large usecases of CloutContracts as a whole.
 
 ### CloutPool Partnership
-CloutPool can help in multiple ways. For starters, the eventual software layer that CloutPool wants to build is centered around infrastructure as code and its own various microservices. CloutContracts can be integrated into many of those systems. CloutPool can also help in the fact that many people building DAPPs untop of CloutContracts may integrate mining capability.
+CloutPool can help in multiple ways. For starters, the eventual software layer that CloutPool wants to build is centered around infrastructure as code and its own various microservices. CloutContracts can be integrated into many of those systems. CloutPool can also help in the fact that many people building DAPPs on top of CloutContracts may integrate mining capability.
 
 #### Datastore for Mining
-DAPPs on CloutContracts can run various algorithms provided it is build untop of its network. This can include various PoW (Proof of Work) functions for people who want to make their smart contracts mineable.
+DAPPs on CloutContracts can run various algorithms provided it is build on top of its network. This can include various PoW (Proof of Work) functions for people who want to make their smart contracts mineable.
 
 #### Software Layer Compatibility
 As mentioned, CloutContracts wants to also be integrated on various infrastructure as a code services and the software layer CloutPool is trying to built. However, CloutContracts is still its own seperate network. This means that if an application launching CloutContracts as a microservice isn't built or integrated as a plugin to CloutPool's software layer, this has no effect on CloutContracts as a network.
