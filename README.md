@@ -27,16 +27,22 @@
 15. [See Also](https://github.com/CloutContracts/whitepaper#see-also)
 
 ## About
+CloutContracts is a smart contracts layer untop of and complimentary to BitClout, as well as potentially other social media platforms in the future as well.
 
 ## Premise
+CloutContracts goes well beyong traditional social media monetization strategies and implements huge core technological aspects.
 
 ## Introduction
+CloutContracts as both a smart contracts layer and tool for creators, will allow for people to expand their networks to new heights.
 
 ## Main Chain
+The main chain for CLoutContracts will likely integrate some sort of optimistic rollup, and be focused on variation of smart contracts programmed in JavaScript and/or Solidity.
 
 ## Sidechains
+CloutContracts will be easy to integrate with various sidechain compatiblity.
 
 ### Pegs
+CloutContracts will also integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
 
 ### DeFi
 
