@@ -1,3 +1,4 @@
+![CloutContractsLogo](https://avatars.githubusercontent.com/u/84701387?s=200&v=4.png)
 # CloutContracts Whitepaper v1.0
 **Andrew M. K. Nassief**
 
