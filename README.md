@@ -51,7 +51,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. End license text.
 
 ## Main Chain
-The main chain for CloutContracts will likely integrate some sort of optimistic rollup, and be focused on variation of smart contracts programmed in JavaScript and/or Solidity.
+The main chain for CloutContracts will likely integrate some sort of optimistic rollup, and be focused on variations of smart contracts programmed in JavaScript and/or Solidity.
 
 ## Sidechains
 CloutContracts will be easy to integrate and compatible with sidechains.
