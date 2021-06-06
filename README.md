@@ -33,7 +33,7 @@
 **Keywords:** *Smart Contracts, Distributed Computing, Blockchain, Decentralization, Social Media, Social Networks, DAPPs, Javascript, Computer Science, Compututational Sciences, DeFi, Ethereum, Sidechains, Networks, Cryptocurrency, Software Engineering*
 
 ## Premise
-CloutContracts goes well beyond traditional social media monetization strategies and implements huge core technological aspects. This is because just like other blockchain networks or rollup layers, people can build DAPPs or smart contracts on top of CloutContracts. What sets it apart is speed, low gas fees, and adaptability as well as being more creator friendly. 
+CloutContracts goes well beyond traditional social media monetization strategies and implements key core technological aspects. This is because just like other blockchain networks or rollup layers, people can build DAPPs or smart contracts on top of CloutContracts. What sets it apart is speed, low gas fees, and adaptability as well as being more creator friendly. The idea of CloutContracts as mentioned, is to turn everyday creators and social influencers into blockchain engineers while still being adaptable towards complex developers and blockchain architects as well. A huge key aspect to achieving this, will be its many integrations and the various protocols in place that allow CloutContracts to function.
 
 ## Introduction
 CloutContracts as both a smart contracts layer and tool for creators, will allow for people to expand their networks to new heights.
