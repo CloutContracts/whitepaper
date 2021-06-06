@@ -53,10 +53,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 The main chain for CloutContracts will likely integrate some sort of optimistic rollup, and be focused on variation of smart contracts programmed in JavaScript and/or Solidity.
 
 ## Sidechains
-CloutContracts will be easy to integrate with various sidechain compatiblity.
+CloutContracts will be easy to integrate and compatible with sidechains.
 
 ### Pegs
-CloutContracts will also integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
+CloutContracts will likely integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
 
 ### DeFi
 Due to the many technological integrations that CloutContracts has, flexibility w/ various DeFi apps and exchanges should be possible.
