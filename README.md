@@ -51,10 +51,10 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. End license text.
 
 ## Main Chain
-The main chain for CloutContracts will likely integrate some sort of optimistic rollup, and be focused on variations of smart contracts programmed in JavaScript and/or Solidity.
+The main chain for CloutContracts will likely integrate some sort of optimistic rollup, and be focused on variations of smart contracts programmed in JavaScript and/or Solidity. This type of rollup will be what allows for speedy transactions and minimal gas fees. It is also optimal to use a commonly known programming language over something entirely new or a custom GPL. In regards to CloutContract's blockchain, once the network is live or things are built on top of it, it will be quite easy to track smart contract and DAPP activity. People can build various extensions to CloutContract's blockchain and outside of DAPPs or smart contracts, they can also expand upon it w/ custom sidechains and sidechain networks.
 
 ## Sidechains
-CloutContracts will be easy to integrate and compatible with sidechains.
+CloutContracts will be integratable and compatible with sidechains.
 
 ### Pegs
 CloutContracts will likely integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
