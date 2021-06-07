@@ -57,10 +57,10 @@ The main chain for CloutContracts will likely integrate some sort of optimistic 
 CloutContracts will be integratable and compatible with sidechains. This means that people can build sidechains or bridges between their network and CloutContracts or even interchangeabley build tokens untop of CloutContracts with functions that are specifically integrated in another person's blockchain or network. This will allow for integrations such as merged mining applications, different on-ramp/off-rank protocols, API integrations, and even companies looking to do something like perhaps issue a certificate digitally on their network over the CloutContracts blockchain, but integrate various cryptographic mechanisms that CloutContracts implements.
 
 ### Pegs
-CloutContracts will likely integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains.
+CloutContracts will likely integrate pegs such as a tied BEP-20 asset and potentially other tools that wrap it, or allow it to have compatibility with other blockchains. This will allow for further expansion around bridging CloutContracts as well as further compatibility with a wide variety of networks. People might even integrate various forms of escrow, statistical and computational usecases, P2P stores, and other projects as a utility. The wider the compatibility and distribution, along w/ the original technology, the less likely it is for it to become too centralized.
 
 ### DeFi
-Due to the many technological integrations that CloutContracts has, flexibility w/ various DeFi apps and exchanges should be possible.
+Due to the many technological integrations that CloutContracts has, flexibility w/ various DeFi apps and exchanges should be possible. As noted, staking and different types of masternodes or staking pools should be quite feasible. People might even build forms of stararb strategies, write HOA agreements on the blockchain or integrate various forms of crowdsourcing, digital coins, or representations of liquidity such as in-game assets. DAPPs on CloutContracts might even be integrated by some developers over in-app purchases on games and mobile applications. Decentralized exchanges might even be able to run a sidechain and benefit from various aspects of the cryptography of CloutContracts. Really, there are various utilities and usecases.
 
 ## DAPP Compatibility
 A huge serious advantage that CloutContracts brings is the ability for many people to build DAPPs (decentralized applications) on top of CloutContracts.
