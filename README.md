@@ -29,7 +29,7 @@
     - [Disclaimer](https://github.com/CloutContracts/whitepaper#disclaimer)
 
 ## About
-[CloutContracts](https://cloutcontracts.github.io/) is a smart contracts layer on top of and complimentary to BitClout, as well as potentially other social media platforms in the future as well. As a smart contracts layer, many creators onboarded to CloutContracts can create high performace DAPPs w/ an emphasis on low gas fees, customization, speed and various social aspects as well. This will eventually allow creators to build large scale networks, tokenization usecases, and bring blockchain adaptability to their fanbases. Unlike traditional rollup networks or DAPP tools, the emphasis is on the creator, adaptability, and expanded functionalities such as modular tools or microservices. CloutContracts aims to have creators feel like they aren't needing to choose between expanded functionality from running their own blockchain or accessibility from running on top of a network. This creates a new class of blockchain developers, in which ease of access is aimed towards both the most basic level to running complex lightweight apps on JavaScript or Solidity.
+[CloutContracts](https://cloutcontracts.github.io/) is a smart contracts layer on top of and complimentary to BitClout, as well as potentially other social media platforms in the future as well. As a smart contracts layer, many creators onboarded to CloutContracts can create high performance DAPPs w/ an emphasis on low gas fees, customization, speed and various social aspects as well. This will eventually allow creators to build large scale networks, tokenization usecases, and bring blockchain adaptability to their fanbases. Unlike traditional rollup networks or DAPP tools, the emphasis is on the creator, adaptability, and expanded functionalities such as modular tools or microservices. CloutContracts aims to have creators feel like they aren't needing to choose between expanded functionality from running their own blockchain or accessibility from running on top of a network. This creates a new class of blockchain developers, in which ease of access is aimed towards both the most basic level to running complex lightweight apps on JavaScript or Solidity.
 
 **Keywords:** *Smart Contracts, Distributed Computing, Blockchain, Decentralization, Social Media, Social Networks, DAPPs, Javascript, Computer Science, Compututational Sciences, DeFi, Ethereum, Sidechains, Networks, Cryptocurrency, Software Engineering*
 
@@ -99,13 +99,20 @@ As mentioned, CloutContracts wants to also be integrated on various infrastructu
 In the future, there could be lots of possibilities and perhaps further phases. There might even be the potential of CloutContracts migrating from optimistic layer to its own blockchain. The priority though is usage and further decentralization over technically seeking out full independence or technological autonomy. Just the possibility of that happening, may be a bit more reassuring in regards to its status as a platform. As for now, the most important thing is the testnet and mainnet (rollup) phase, and how CloutContracts is utilized in regards to early adoption.
 
 ## Conclusion
-CloutContracts has lots of potential as not just a network, but perhaps an establisher of various protocols.
+CloutContracts has lots of potential as not just a network, but perhaps an establisher of various protocols. This includes the ability to leverage DAPPs for large scale creator economies, revitalizing smart contracts w/ mining through high speed networks, and making various aspects of decentralization and blockchain adaptable towards large scale infrastructure. Centralized databases and technology seems to be adaptable towards large scale enterprises, and projects like CloutContracts allow for a major paradigm-shift.
 
 ### Summary
-As mentioned, CloutContracts is a smart contracts layer and network.
+As mentioned, CloutContracts is a smart contracts layer and network. They are utilizing a variety of technological protocols and integrations in order to be adaptable towards creators while turning everybody in blockchain architects. The ability to build a large scale network with ease for novice users, or create something entirely complex for seasoned blockchain developers will allow for the best of both worlds. CloutContracts is also adaptable towards creators and social media influencers towards the various social networks it may integrate, starting with networks like BitClout.
 
 ## See Also
-[1] \
-[2]
+[[1](https://en.wikipedia.org/wiki/Decentralized_finance)] [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance) \
+[[2](https://bitclout.com/)] [BitClout](https://bitclout.com/) \
+[[3](http://cloutpool.net/)] [CloutPool](http://cloutpool.net/) \
+[[4](https://www.minds.com/)] [Minds.com](https://www.minds.com/) \
+[[5](https://github.com/Agoric/agoric-sdk)] [Agoric SDK](https://github.com/Agoric/agoric-sdk) \
+[[6](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/#optimistic-rollups)] [Optimistic Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/#optimistic-rollups) \
+[[7](https://en.wikipedia.org/wiki/Distributed_ledger)] [Distributed Ledgers](https://en.wikipedia.org/wiki/Distributed_ledger) \
+[[8](https://en.wikipedia.org/wiki/Infrastructure_as_code)] [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 
 ### Disclaimer
+None of this is investment advice. We aren't an investment vehicle and don't solicit financial advice. Consider this paper theoretical and this technology experimental. Any actions you decide to do are at your own risk.
