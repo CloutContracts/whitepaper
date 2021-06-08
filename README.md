@@ -93,10 +93,10 @@ CloutPool can help in multiple ways. For starters, the eventual software layer t
 DAPPs on CloutContracts can run various algorithms provided it is built on top of its network. This can include various PoW (Proof of Work) functions for people who want to make their smart contracts mineable. As mentioned, the ability to have mining functionality within smart contracts mixed with low gas fees and high speeds, will also attract lots of serious DAPP developers. Creators who might necessarily want to integrate mining and mining reward functionality on top of what they are building, might be enticed to join in as well.
 
 #### Software Layer Compatibility
-As mentioned, CloutContracts wants to also be integrated on various infrastructure as a code services and the software layer CloutPool is trying to built. However, CloutContracts is still its own seperate network. This means that if an application launching CloutContracts as a microservice isn't built or integrated as a plugin to CloutPool's software layer, this has no effect on CloutContracts as a network.
+As mentioned, CloutContracts wants to also be integrated on various infrastructure as a code services and the software layer CloutPool is trying to built. However, CloutContracts is still its own seperate network. This means that if an application launching CloutContracts as a microservice isn't built or integrated as a plugin to CloutPool's software layer, this has no effect on CloutContracts as a network. The fact that CloutContracts applications and protocols can be ran ontop of CloutPool's software layer, but doesn't have a reliance or need to, is a plus. It makes it more decentralized while still having a compatibility that allows it to be used more.
 
 ## The Future
-In the future, there could be lots of possibilities and perhaps further phases.
+In the future, there could be lots of possibilities and perhaps further phases. There might even be the potential of CloutContracts migrating from optimistic layer to its own blockchain. The priority though is usage and further decentralization over technically seeking out full independence or technological autonomy. Just the possibility of that happening, may be a bit more reassuring in regards to its status as a platform. As for now, the most important thing is the testnet and mainnet (rollup) phase, and how CloutContracts is utilized in regards to early adoption.
 
 ## Conclusion
 CloutContracts has lots of potential as not just a network, but perhaps an establisher of various protocols.
