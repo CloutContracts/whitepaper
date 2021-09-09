@@ -1,4 +1,4 @@
-![CloutContractsLogo](https://avatars.githubusercontent.com/u/84701387?s=200&v=4.png)
+![CCLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)
 # CloutContracts Whitepaper v1.0
 **Andrew M. K. Nassief** \
 *June 7th, 2021*
